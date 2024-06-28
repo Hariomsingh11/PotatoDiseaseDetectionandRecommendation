@@ -1,0 +1,45 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+  
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; /* Align items to the top of the container */
+    align-items: center;
+    min-height: 100vh;
+    background-image: url('bg.png'); 
+    background-size: cover; /* Cover the entire container */
+    background-position: center;
+  }
+.recommendation {
+    
+        background-color: #021923;
+        border-radius: 8px;
+        padding: 20px;
+        margin-top: 20px;
+        background-image: url('i.jpeg');
+        background-size: cover;
+        background-position: center;
+    }
+
+.title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.text {
+    color: whitesmoke;
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+.confidence {
+    font-size: 16px;
+    color: #fefcfc;
+}

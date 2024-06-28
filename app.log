@@ -1,0 +1,6 @@
+WARNING:tensorflow:From C:\Users\Maadurga computer\AppData\Roaming\Python\Python311\site-packages\keras\src\saving\legacy\saved_model\load.py:107: The name tf.gfile.Exists is deprecated. Please use tf.io.gfile.exists instead.
+
+WARNING:tensorflow:From C:\Users\Maadurga computer\AppData\Roaming\Python\Python311\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:tensorflow:From C:\Users\Maadurga computer\AppData\Roaming\Python\Python311\site-packages\keras\src\backend.py:1967: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
